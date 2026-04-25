@@ -56,8 +56,8 @@ git branch -M Feature1
 git push origin Feature1
 ```
 ```bash
-
+git merge Feature1
 ```
 ```bash
-
+git pull origin main
 ```
