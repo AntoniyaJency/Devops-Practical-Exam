@@ -28,3 +28,35 @@ git commit -m "Initial commit"
 git log
 ```
 ```bash
+git remote add origin https://github.com/AntoniyaJency/Devops-Practical-Exam.git
+```
+```bash
+git push -u origin main
+```
+```bash
+
+```
+```bash
+
+```
+```bash
+
+```
+```bash
+
+```
+```bash
+
+```
+```bash
+
+```
+```bash
+
+```
+```bash
+
+```
+```bash
+
+```
