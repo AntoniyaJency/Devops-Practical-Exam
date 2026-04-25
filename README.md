@@ -12,3 +12,19 @@ git config --global user.email "antoniyajency.27csa@licet.ac.in"
 ```bash
 git config --global user.name "AntoniyaJency"
 ```
+```bash
+git init
+```
+```bash
+git status
+```
+```bash
+git add .
+```
+```bash
+git commit -m "Initial commit"
+```
+```bash
+git log
+```
+```bash
