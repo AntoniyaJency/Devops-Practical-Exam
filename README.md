@@ -2,6 +2,7 @@
 
 ```bash
 git --version
-
+```
 ```bash
 git config --global --list
+```
