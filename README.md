@@ -34,25 +34,26 @@ git remote add origin https://github.com/AntoniyaJency/Devops-Practical-Exam.git
 git push -u origin main
 ```
 ```bash
-
+git tag v1.0 -m "first version"
 ```
 ```bash
-
+git tag
 ```
 ```bash
-
+git push origin v1.0
 ```
 ```bash
-
+git branch
 ```
 ```bash
-
+git switch main
+git checkout main
 ```
 ```bash
-
+git branch -M Feature1 
 ```
 ```bash
-
+git push origin Feature1
 ```
 ```bash
 
